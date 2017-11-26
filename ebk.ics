@@ -447,8 +447,8 @@ SUMMARY:Treffen: Weiternetiwcklung von Partuniverse
 DTSTART;TZID=Europe/Berlin:20170814T200000
 DTEND;TZID=Europe/Berlin:20170814T220000
 TRANSP:OPAQUE
-DESCRIPTION:Wir wollen darüber sprechen\, wie es mit der Software hinter 
- dinge.eigenbaukombinat.de weiter geht
+DESCRIPTION:Wir wollen darüber sprechen\, wie es mit der Software hinterd
+ inge.eigenbaukombinat.de weiter geht
 END:VEVENT
 BEGIN:VEVENT
 CREATED:20170812T111605Z
@@ -575,5 +575,17 @@ DTSTART;TZID=Europe/Berlin:20171122T160000
 DTEND;TZID=Europe/Berlin:20171122T220000
 TRANSP:OPAQUE
 DESCRIPTION:https://eigenbaukombinat.de/Fototag/
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20171126T104542Z
+LAST-MODIFIED:20171126T104634Z
+DTSTAMP:20171126T104634Z
+UID:2160d4b9-f3a2-4b36-8090-99701fec91f2
+SUMMARY:Finanzrunde
+RRULE:FREQ=MONTHLY;BYDAY=-1TH
+DTSTART;TZID=Europe/Berlin:20171130T190000
+DTEND;TZID=Europe/Berlin:20171130T210000
+TRANSP:OPAQUE
+DESCRIPTION:Es trifft sich der Arbeitskreis Finanzen
 END:VEVENT
 END:VCALENDAR
